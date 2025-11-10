@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/MyamotoMusashii/MyamotoMusashii/blob/main/assets/Ergo%20proxy!.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 24 years  Beginner frontend and backend developer from Russia
 
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/MyamotoMusashii/MyamotoMusashii/blob/main/assets/Ergo%20Proxy%20%20(EP).gif">
 
 ### - Learning :
 - ✨ I’m currently studying **python, javascript, git, html, css**
